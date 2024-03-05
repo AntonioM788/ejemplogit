@@ -1,3 +1,6 @@
+/* Esto es una figura de Java */
+
+
 public abstract class Figura {
     public abstract double area();
     public abstract double perimetro();
